@@ -1,0 +1,16 @@
+{
+  "name": "snowy-solutions-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Snowy Solutions shop with ticket system",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": ["discord", "bot", "shop", "ticket"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
